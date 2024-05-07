@@ -6,7 +6,7 @@ A company focused on developing network security.
 ## Services
 
 ### Network
-We provide security solutions in various areas of networks, and we also offer other interesting repositories about communication and protocols.
+We provide a variety of networking security solutions alongside a wide range of resources covering communication and protocols.
 
 ### Hosting
 • Virtual Private Server (VPS);
