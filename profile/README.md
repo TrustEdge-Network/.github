@@ -1,5 +1,5 @@
 # TrustEdge Network
-A company focused on developing network security.
+A company committed to the research and development of network security solutions.
 
 ![logo](https://github.com/TrustEdge-Network/.github/blob/main/profile/public/logo.png?raw=true)
 
