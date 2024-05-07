@@ -1,7 +1,7 @@
 # TrustEdge Network
 A company focused on developing network security.
 
-![logo](./public/logo.png)
+![logo](https://github.com/TrustEdge-Network/.github/blob/main/profile/public/logo.png?raw=true)
 
 ## Services
 
