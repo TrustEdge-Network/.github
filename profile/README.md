@@ -15,4 +15,4 @@ We provide a variety of networking security solutions alongside a wide range of 
 
 • DDoS Protection (Remote).
 
-Our services are economical and reliable( as said in our name ), and include free DDoS protection, using cutting-edge technology, with specialized filters for various applications, using eBPF/XDP for high performance filtering.
+Our services prioritize both affordability and reliability. We provide complimentary DDoS protection leveraging cutting-edge technology, with specialized filters for various applications, all powered by eBPF/XDP for high performance filtering.
